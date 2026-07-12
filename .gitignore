@@ -1,0 +1,51 @@
+# Vivado specific
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.xpr
+*.jou
+*.log
+*.str
+*.dcp
+*.bit
+*.ltx
+*.mmi
+*.rpt
+*.xml
+*.bxml
+*.pb
+*.wdb
+*.wcfg
+*.vdi
+*.pb
+*.vds
+*.drc
+*.log
+*.str
+*.jou
+*.runs/
+*.sim/
+*.cache/
+*.hw/
+*.ip_user_files/
+
+# Compiled files
+*.elf
+*.mem
+*.o
+*.a
+
+# Editor and OS files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Project specific
+paper.docx
+*.pptx
+*.pdf
